@@ -65,7 +65,7 @@ npm install
 
 ### 3. Configuration
 
-Update configuration files with your **Sepolia blockchain** credentials and settings.  
+Update configuration files with your **Base Sepolia blockchain** credentials and settings.  
 Make sure to replace any placeholder values with actual API keys and wallet addresses.
 
 ### 4. Run the Application
