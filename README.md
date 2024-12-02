@@ -73,7 +73,7 @@ Make sure to replace any placeholder values with actual API keys and wallet addr
 Start the development server.
 
 ```bash
-npm start
+npm run dev
 ```
 
 ### 5. Explore the Platform
